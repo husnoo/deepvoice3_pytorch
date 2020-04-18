@@ -1,3 +1,6 @@
+output_dir/
+sentences.txt
+*.pth
 pretrained_models
 deepvoice3_pytorch/version.py
 checkpoints*
