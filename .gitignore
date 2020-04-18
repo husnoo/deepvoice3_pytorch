@@ -1,3 +1,7 @@
+*.pth
+sentences.txt
+output_dir
+
 legacy
 notebooks
 foobar*
